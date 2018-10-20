@@ -9,8 +9,8 @@ import (
 	"os/exec"
 	"syscall"
 
-	"github.com/docker/libchan"
-	"github.com/docker/libchan/spdy"
+	"github.com/caivega/libchan"
+	"github.com/caivega/libchan/spdy"
 )
 
 // RemoteCommand is the received command parameters to execute locally and return

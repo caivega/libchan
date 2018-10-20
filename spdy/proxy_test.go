@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/docker/libchan"
+	"github.com/caivega/libchan"
 )
 
 type ProxiedMessage struct {
